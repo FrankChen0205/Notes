@@ -7,3 +7,4 @@ Current available notes:
 ### `PHYS 1111` - General Physics I
 ### `COMP 2011` - Programming with C++
 ### `MATH 2411` - Applied Statistics
+### `COMP 2711H` - Honors Discrete Mathematical Tools for Computer Science
