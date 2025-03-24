@@ -1,7 +1,7 @@
 # Notes
 My own course notes at univeristy
 
-Currently available notes:
+Currently available notes: (Click **[↓]** for direct download)
 
 ### `LIFS 1901` - General Biology I **`[A]`** [[↓]](https://github.com/FrankChen0205/Notes/raw/main/LIFS_1901_Notes.pdf)
 ### `PHYS 1111` - General Physics I **`[A]`** [[↓]](https://github.com/FrankChen0205/Notes/raw/main/PHYS_1111_Formulas.pdf)
